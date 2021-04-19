@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "name": "quit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a1gtd",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNS-js/tns-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TNS-js/tns-bot/issues"
+  },
+  "homepage": "https://github.com/TNS-js/tns-bot#readme",
+  "description": ""
+}
